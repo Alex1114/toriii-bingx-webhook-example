@@ -1,0 +1,21 @@
+http://127.0.0.1:5000/develop_test
+
+{
+    "passphrase": "xxxxx",
+    "time": "2022-04-01T05:00:01Z",
+    "exchange": "BINANCE",
+    "ticker": "ETHUSDTPERP",
+    "leverage": 10,
+    "margin" : 15,
+    "strategy": {
+        "position_size": 1.3785,
+        "order_action": "xxx",
+        "order_contracts": 0.6141,
+        "order_price": 1630,
+        "order_id": "Long",
+        "market_position": "long",
+        "market_position_size": 1.3785,
+        "prev_market_position": "flat",
+        "prev_market_position_size": 0.7644
+    }
+}
